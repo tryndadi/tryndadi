@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Olá, sou o Vinícius Trindade e seja bem vindo ao meu portfólio!</h1>
+  <h1>Hi, I'm Vinícius Trindade and welcome to my portfolio!</h1>
 </div>
 <div align="center"  >
   <a href="https://github.com/tryndadi?tab=repositories"><br>
@@ -18,11 +18,15 @@
   ##
   
   <div align="center">
+      <h3>Contributions made per period</h3>
+      
+![Snake animation](https://github.com/tryndadi/tryndadi/blob/output/github-contribution-grid-snake.svg)
+  </div>
+    <div align="center">
       <a href = "mailto:trindade.vt@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciustrindade22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
      <a href="https://bit.ly/tryndadi" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/trindadevinicius" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <div>
+    </div>
+     
       
-      ![Snake animation](https://github.com/tryndadi/tryndadi/blob/output/github-contribution-grid-snake.svg)
-
