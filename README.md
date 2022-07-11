@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Vinícius Trindade and welcome to my portfolio!</h1>
+  <h1>Hi, I'm Vinícius Trindade and welcome to my collection!</h1>
 </div>
 <div align="center"  >
   <a href="https://github.com/tryndadi?tab=repositories"><br>
