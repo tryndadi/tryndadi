@@ -3,8 +3,8 @@
 </div>
 <div align="center"  >
   <a href="https://github.com/tryndadi?tab=repositories"><br>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=tryndadi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide=stars,issues"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=vue-dark&layout=compact"/>
+  <img width="560em" height="160em"  src="https://github-readme-stats.vercel.app/api?username=tryndadi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide=stars,issues"/>
+     <img width="560em" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=vue-dark&layout=compact"/>
 </div>
   <div align="center"><br>
       
