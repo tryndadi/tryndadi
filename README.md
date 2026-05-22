@@ -8,13 +8,9 @@ Building applications focused on organization, productivity, finance, and user e
 
 <br>
 
-<a href="https://github.com/tryndadi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tryndadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=issues"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tryndadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=issues" />
 
-<a href="https://github.com/tryndadi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryndadi&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryndadi&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -140,15 +136,15 @@ Collection of internal tools focused on operational optimization and workflow au
 
 <div align="center">
 
-<a href="mailto:trindade.vt@outlook.com">
+<a href="mailto:trindade.vt@outlook.com" target="_blank">
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
 
-<a href="mailto:viniciustrindade22@gmail.com">
+<a href="mailto:viniciustrindade22@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://bit.ly/tryndadi" target="_blank">
+<a href="https://wa.me/5535984490651" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
