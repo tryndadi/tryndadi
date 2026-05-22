@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vinícius Bérgamo
+# Vinicius Bergamo
 
 ### Full Stack Developer • UI/UX Enthusiast • Automation Builder
 
